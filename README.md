@@ -17,6 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 
 # Project Pertama Flutter (Pertemuan 2)
 
+NIM : 362458302101
+Nama : Firman Ardiansyah
+Kelas : 2D TRPL
+
 ## Dokumentasi Praktikum 1: Membuat Project Flutter Baru
 - Buka Command Prompt
 - Pastikan flutter sudah berhasil terinstall dengan mengetikkan "flutter"
@@ -60,8 +64,7 @@ samples, guidance on mobile development, and a full API reference.
 - Lakukan perintah "git add ." untuk menambahkan semua file yang ada di change ke stage change
 - Kemudian ketikkan "git commit -m "project hello_world""
 - Setelah itu lakukan push ke github "git push"
-- [Jika berhasil tampilan repo github akan seperti ini]()
-
+- [Jika berhasil tampilan repo github akan seperti ini](images/praktikum-3.2.png)
 
 
 ## Dokumentasi Praktikum 4: Menerapkan Widget Dasar
