@@ -76,5 +76,5 @@ Kelas : 2D TRPL
 - scroll kebawah pada baris 109/const ganti teks menjadi const MyTextWidget()/MyImageWidget(),
 - Pergi ke file pubspec.yaml, hapus "#" baris assets dan dibawahnya tambahkan file gambar/logo
 - Buka terminal ketik command "flutter run"
-- [Hasil Praktikum 3: Text Widget](images/praktikum-4.1.png)
-- [Hasil Praktikum 3: Image Widget](images/praktikum-4.2.png)
+- [Hasil Praktikum 4: Text Widget](images/praktikum-4.1.png)
+- [Hasil Praktikum 4: Image Widget](images/praktikum-4.2.png)
